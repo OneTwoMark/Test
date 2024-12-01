@@ -1,4 +1,6 @@
 This is text in a text file 
 This is more text, edited in 
 3rd line was added in new branch only 
-added this in the main branch on 4th line - bananas. 
+this was added in the third branch on the 4th line - peanuts 
+added this in the main branch on 4th line - bananas. changed to 5th in push request. 
+
